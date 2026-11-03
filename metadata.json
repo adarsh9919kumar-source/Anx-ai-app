@@ -1,0 +1,6 @@
+{
+  "name": "ANX AI",
+  "description": "Futuristic 3D personal AI assistant with real-time chatting in Hindi, English, and Hinglish, voice interactions, AI tools, coding assistance, image generation, and smartphone control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

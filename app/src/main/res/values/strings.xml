@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ANX AI</string>
+    <string name="tagline">YOUR PERSONAL AI WORLD</string>
+    <string name="welcome_title">Welcome to ANX AI</string>
+    <string name="welcome_subtitle">Your ultra-intelligent personal 3D AI companion. Powered by real-time voice, advanced tools, and smart Android controls.</string>
+    <string name="listening">Listening to your voice…</string>
+    <string name="thinking">ANX AI is processing…</string>
+    <string name="speaking">ANX AI is speaking…</string>
+    <string name="mic_tap_to_talk">Tap to Speak</string>
+    <string name="mic_tap_to_stop">Tap to Stop</string>
+    <string name="type_placeholder">Ask ANX AI anything (Hindi / English / Hinglish)…</string>
+    <string name="permission_audio_rationale">ANX AI requires microphone access to enable real-time natural voice conversations in Hindi and English.</string>
+</resources>
